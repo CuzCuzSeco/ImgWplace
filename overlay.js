@@ -32,6 +32,7 @@
         "EVE-StelarBlade",
         "Onda Japonesa",
         "Brasil Imperial"
+        "Pikachuuuu"
     ];
     const overlayCoords = [
         { lat: -23.6260, lng: -46.8656 },
@@ -40,6 +41,7 @@
         { lat: 36.34, lng: 127.12 },
         { lat: 34.55, lng: 139.10 },
         { lat: -23.4968, lng: -47.0192 }
+        { lat: -15.4870, lng: -49.1487 }
     ];
 
     function resetProgress() {
