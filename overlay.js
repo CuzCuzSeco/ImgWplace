@@ -303,7 +303,7 @@
     });
 
     function fetchData() {
-        return fetch("https://raw.githubusercontent.com/ZaryImortal/wplace.live-overlay-multi-chunk/refs/heads/main/imagens.js?" + Date.now())
+        return fetch("https://https://github.com/CuzCuzSeco/ImgWplace/blob/7dbf6c3c3e076e1d1c3d882e56a029c5eb64b7fc/imagens.js?" + Date.now())
             .then(res => res.json());
     }
 
