@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Wplace Overlay Multi-chunk + HUD By Zary
+// @name         Wplace PIKACHU by Zary
 // @namespace    http://tampermonkey.net/
 // @version      0.6.9
 // @description  Overlay multi-chunk para Wplace.live com HUD, seletor de overlay, botão "Ir para Overlay" e filtro de cores faltantes.
@@ -8,8 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=zarystore.net
 // @license      MIT
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/ZaryImortal/wplace.live-overlay-multi-chunk/refs/heads/main/overlay.js
-// @downloadURL  https://raw.githubusercontent.com/ZaryImortal/wplace.live-overlay-multi-chunk/refs/heads/main/overlay.js
+// @updateURL    https://raw.githubusercontent.com/CuzCuzSeco/ImgWplace/refs/heads/main/overlay.js
+// @downloadURL  https://raw.githubusercontent.com/CuzCuzSeco/ImgWplace/refs/heads/main/overlay.js
 // ==/UserScript==
 
 
